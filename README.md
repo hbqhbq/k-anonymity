@@ -1,0 +1,2 @@
+# k-anonymity
+To address the privacy leakage problem caused by link attacks, the k-anonymity method is introduced. K-anonymity uses techniques such as generalization (providing a more general and abstract description of data) and concealment (not publishing certain data items) to publish data with lower accuracy, resulting in at least k records in the same quasi identifier, making it impossible for observers to connect records through the quasi identifier.
